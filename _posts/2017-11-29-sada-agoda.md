@@ -1,19 +1,19 @@
 ---
-description: садња јагода
-author: []
-datePublished: '2017-11-29T07:56:44.739Z'
-dateModified: '2017-11-29T07:56:43.797Z'
 title: ''
+datePublished: '2017-11-29T08:37:46.498Z'
+dateModified: '2017-11-29T08:19:30.468Z'
 publisher: {}
-via: {}
-inFeed: true
-sourcePath: _posts/2017-11-29-sada-agoda.md
+author: []
+inFeed: false
 hasPage: true
+description: садња јагода
+via: {}
 starred: false
 datePublishedOriginal: '2017-11-29T06:45:03.671Z'
+sourcePath: _posts/2017-11-29-sada-agoda.md
 url: sada-agoda/index.html
-_context: 'http://schema.org'
 _type: Article
+_context: 'http://schema.org'
 
 ---
 садња јагода
