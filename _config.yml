@@ -1,0 +1,53 @@
+typography_spectrum: 0.613252042348838
+color:
+  brandColors:
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+  brandStrength: 0.5981381031448509
+  lightness: 0.1714283378346072
+  saturation: 0.08110122213262039
+  rhythmicContrast: 0.5574329718987708
+layout_spectrum: 0.40271100941738747
+name: eden
+navigation:
+  - name: Сорте
+    id: 8e65451c-d5e5-4131-a79a-583a2d0c859c
+    type: content
+title: Еден
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfe73cad-30f6-45a9-9fd1-8b64c7f9f10b.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfe73cad-30f6-45a9-9fd1-8b64c7f9f10b.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Савремени узгој јагода на природан начин
+purpose:
+  - type: contact
+    url: 'mailto:office@eden.rs'
+    label: пишите нам
+  - type: contact
+    url: 'tel:+38122497294'
+    label: позовите нас
+github: true
