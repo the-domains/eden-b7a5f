@@ -14,11 +14,11 @@ github: true
 layout_spectrum: 0.8786426456956802
 name: eden
 navigation:
-  - name: Сорте
-    id: 8e65451c-d5e5-4131-a79a-583a2d0c859c
-    type: content
   - name: Увод
     id: 2e830f54-d9fa-4c7b-88a3-4e91d9a5aa05
+    type: content
+  - name: Сорте
+    id: 8e65451c-d5e5-4131-a79a-583a2d0c859c
     type: content
 title: Еден
 content:
