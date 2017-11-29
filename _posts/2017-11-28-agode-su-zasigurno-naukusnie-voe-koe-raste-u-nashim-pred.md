@@ -1,22 +1,22 @@
 ---
-inFeed: true
+title: ''
+datePublished: '2017-11-29T08:19:48.382Z'
+dateModified: '2017-11-29T08:19:44.465Z'
+publisher: {}
+author: []
+inFeed: false
+hasPage: true
 description: >-
   Јагоде су засигурно најукусније воће које расте у нашим пределима и свакако
   једно од првих које ће нас обрадовати после дуге и хладне зиме. Оне су сладке,
   оне су укусне, оне су пуне витамина, минерала и антиоксиданата и као такве
   заслужују посебну пажњу у нашој башти.
-dateModified: '2017-11-29T07:48:05.574Z'
-datePublished: '2017-11-29T07:48:06.132Z'
-title: ''
-author: []
-publisher: {}
 via: {}
-sourcePath: _posts/2017-11-28-agode-su-zasigurno-naukusnie-voe-koe-raste-u-nashim-pred.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-29T05:56:59.395Z'
+sourcePath: _posts/2017-11-28-agode-su-zasigurno-naukusnie-voe-koe-raste-u-nashim-pred.md
 url: jagode-iz-moje-baste/index.html
-_type: Article
+_type: Blurb
 
 ---
 Јагоде су засигурно најукусније воће које расте у нашим пределима и свакако једно од првих које ће нас обрадовати после дуге и хладне зиме. Оне су сладке, оне су укусне, оне су пуне витамина, минерала и антиоксиданата и као такве заслужују посебну пажњу у нашој башти.
