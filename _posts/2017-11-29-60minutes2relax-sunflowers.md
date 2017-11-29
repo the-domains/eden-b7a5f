@@ -7,8 +7,8 @@ keywords:
   - free
   - upload
 title: 60minutes2relax - Sunflowers
-datePublished: '2017-11-29T08:41:29.167Z'
-dateModified: '2017-11-29T08:41:28.671Z'
+datePublished: '2017-11-29T08:42:29.295Z'
+dateModified: '2017-11-29T08:42:28.552Z'
 publisher:
   name: YouTube
   domain: youtu.be
@@ -20,9 +20,7 @@ author:
     avatar: {}
 inFeed: false
 hasPage: true
-description: >-
-  Play in the background while you work or study. Or use it for long relaxation
-  sessions.
+description: Овде можете погледати наш оригинални садржај
 via: {}
 sourcePath: _posts/2017-11-29-60minutes2relax-sunflowers.md
 starred: false
@@ -32,4 +30,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+Овде можете погледати наш оригинални садржај
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FFtoRQ6JxHio%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFtoRQ6JxHio&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFtoRQ6JxHio%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
