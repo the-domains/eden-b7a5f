@@ -1,4 +1,5 @@
-typography_spectrum: 0.613252042348838
+layout_spectrum: 0.8786426456956802
+typography_spectrum: 0.614780990673266
 color:
   brandColors:
     - '#B0CC99'
@@ -6,11 +7,10 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
-  brandStrength: 0.5981381031448509
-  lightness: 0.1714283378346072
-  saturation: 0.08110122213262039
-  rhythmicContrast: 0.5574329718987708
-layout_spectrum: 0.40271100941738747
+  brandStrength: 0.5955684095184033
+  lightness: 0.17896461605380226
+  saturation: 0.5662133132383265
+  rhythmicContrast: 0.5576675779914649
 name: eden
 navigation:
   - name: Сорте
