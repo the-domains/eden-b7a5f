@@ -23,6 +23,9 @@ navigation:
   - name: Садња
     id: febeadb7-eac9-4e4e-b63d-306a54118996
     type: content
+  - name: Мултимедија
+    id: 6e829739-2f54-472d-9894-d6046e967298
+    type: content
 title: Еден
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
