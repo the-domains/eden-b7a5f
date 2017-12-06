@@ -14,7 +14,7 @@ github: true
 layout_spectrum: 0.8786426456956802
 name: eden
 navigation:
-  - name: Увод
+  - name: о Јагодама
     id: 2e830f54-d9fa-4c7b-88a3-4e91d9a5aa05
     type: content
   - name: Сорте
