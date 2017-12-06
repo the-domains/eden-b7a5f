@@ -26,6 +26,10 @@ navigation:
   - name: Мултимедија
     id: 6e829739-2f54-472d-9894-d6046e967298
     type: content
+  - name: O jagodama
+    url: >-
+      https://docs.google.com/document/d/1ppXhH9VVufzYuoa8tCy4wb40EjnzgzmagbRSUkUGb-A/edit?usp=sharing
+    type: external
 title: Еден
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
