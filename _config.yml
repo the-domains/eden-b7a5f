@@ -1,17 +1,19 @@
-typography_spectrum: 0.614780990673266
+layout_spectrum: 0.8267830434792887
+typography_spectrum: 0.18627670575182256
 color:
   brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
-  brandStrength: 0.5955684095184033
-  lightness: 0.17896461605380226
-  saturation: 0.5662133132383265
-  rhythmicContrast: 0.5576675779914649
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.9979856047909338
+  lightness: 0.06691277964852087
+  saturation: 0.21865742726030177
+  rhythmicContrast: 0.295513038184254
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.8786426456956802
 name: eden
 navigation:
   - name: о Јагодама
