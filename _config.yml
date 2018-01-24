@@ -22,10 +22,6 @@ navigation:
   - name: Припрема и садња
     id: febeadb7-eac9-4e4e-b63d-306a54118996
     type: content
-  - name: 'Ђубрење '
-    url: >-
-      https://docs.google.com/document/d/1rzp_wVf97Gx3Ch-l1MdtPFwZxKs7PV4GJ1fK4B2mRss/edit
-    type: external
 title: Еден
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
