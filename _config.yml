@@ -1,5 +1,6 @@
-layout_spectrum: 0.6019646995461149
 typography_spectrum: 0.6156142264672804
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B0CC99'
@@ -11,9 +12,8 @@ color:
   lightness: 0.2956815300053815
   saturation: 0.1133570328395408
   rhythmicContrast: 0.10235002973614869
-coverPrefs:
-  filter: false
 github: true
+layout_spectrum: 0.6019646995461149
 name: Еден
 navigation:
   - name: о Јагодама
@@ -22,6 +22,10 @@ navigation:
   - name: Припрема и садња
     id: febeadb7-eac9-4e4e-b63d-306a54118996
     type: content
+  - name: 'Ђубрење '
+    url: >-
+      https://docs.google.com/document/d/1rzp_wVf97Gx3Ch-l1MdtPFwZxKs7PV4GJ1fK4B2mRss/edit
+    type: external
 title: Еден
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -48,6 +52,8 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: Савремени узгој јагода на природан начин
 purpose:
   - type: contact
@@ -56,5 +62,3 @@ purpose:
   - type: contact
     url: 'tel:+38122497294'
     label: позовите нас
-content_rating:
-  adult: false
