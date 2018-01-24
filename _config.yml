@@ -14,7 +14,7 @@ color:
 coverPrefs:
   filter: false
 github: true
-name: eden
+name: Еден
 navigation:
   - name: о Јагодама
     id: 2e830f54-d9fa-4c7b-88a3-4e91d9a5aa05
@@ -24,9 +24,6 @@ navigation:
     type: content
   - name: Припрема и садња
     id: febeadb7-eac9-4e4e-b63d-306a54118996
-    type: content
-  - name: Мултимедија
-    id: 6e829739-2f54-472d-9894-d6046e967298
     type: content
 title: Еден
 content:
@@ -62,3 +59,5 @@ purpose:
   - type: contact
     url: 'tel:+38122497294'
     label: позовите нас
+content_rating:
+  adult: false
