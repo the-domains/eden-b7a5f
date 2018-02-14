@@ -43,16 +43,16 @@ description: >-
   бактерије са различитих локација, како би имали што већи број различитих
   микроорганизама. Све ово можете купити и у пољопривредним апотекама, али цена
   је засигурно много већа.
-dateModified: '2018-02-14T08:38:54.347Z'
-datePublished: '2018-02-14T08:39:13.974Z'
+dateModified: '2018-02-14T08:40:07.293Z'
+datePublished: '2018-02-14T08:40:07.660Z'
 title: Аутохтони микроорганизми
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-02-14-autohtoni-mikroorganizmi.md
 starred: false
 datePublishedOriginal: '2018-02-14T08:39:13.974Z'
-sourcePath: _posts/2018-02-14-autohtoni-mikroorganizmi.md
 url: autohtoni-mikroorganizmi/index.html
 _type: Blurb
 
