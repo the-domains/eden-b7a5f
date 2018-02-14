@@ -44,16 +44,16 @@ description: >-
   здравој и квалитетној земљи, има здрав и јак корен и има здрав надземни део.
   Не можете имати здраву јагоду ако јој је корен болестан или ако је земља
   стерилна или у још горем случају контаминирана патогеним организмима.
-dateModified: '2018-02-14T06:31:14.054Z'
-datePublished: '2018-02-14T06:32:21.770Z'
+dateModified: '2018-02-14T06:33:09.405Z'
+datePublished: '2018-02-14T06:33:10.158Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-02-14-ova-chlanak-posveen-e-ubreu-i-zdravu-agoda-pokushaemo.md
 starred: false
 datePublishedOriginal: '2018-02-14T06:32:21.770Z'
-sourcePath: _posts/2018-02-14-ova-chlanak-posveen-e-ubreu-i-zdravu-agoda-pokushaemo.md
 url: ova-chlanak-posveen-e-ubreu-i-zdravu-agoda-pokushaemo/index.html
 _type: Article
 
