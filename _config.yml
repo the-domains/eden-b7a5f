@@ -25,9 +25,6 @@ navigation:
   - name: Одабир садног материјала
     id: f7247512-b1fe-4887-9938-817a9102fd31
     type: content
-  - name: Ђубрење Јагода
-    id: 3b969090-e4b6-4893-ab9d-b8b6fde67ff9
-    type: content
 title: Еден
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
