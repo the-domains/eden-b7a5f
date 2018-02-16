@@ -1,7 +1,7 @@
 ---
 title: O јагодама
-datePublished: '2018-02-16T07:11:34.095Z'
-dateModified: '2018-02-16T07:11:00.294Z'
+datePublished: '2018-02-16T08:37:25.548Z'
+dateModified: '2018-02-16T08:37:25.223Z'
 publisher: {}
 author: []
 inFeed: false
