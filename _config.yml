@@ -16,9 +16,6 @@ github: true
 layout_spectrum: 0.6019646995461149
 name: Еден
 navigation:
-  - name: Припрема и садња
-    id: febeadb7-eac9-4e4e-b63d-306a54118996
-    type: content
   - name: Одабир садног материјала
     id: f7247512-b1fe-4887-9938-817a9102fd31
     type: content
