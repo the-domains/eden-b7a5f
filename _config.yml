@@ -22,9 +22,6 @@ navigation:
   - name: Припрема и садња
     id: febeadb7-eac9-4e4e-b63d-306a54118996
     type: content
-  - name: Ђубрење јагода
-    id: 3b969090-e4b6-4893-ab9d-b8b6fde67ff9
-    type: content
 title: Еден
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
