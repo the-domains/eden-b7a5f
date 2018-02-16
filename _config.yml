@@ -15,6 +15,10 @@ color:
 github: true
 layout_spectrum: 0.6019646995461149
 name: Еден
+navigation:
+  - name: О јагодама
+    id: 2e830f54-d9fa-4c7b-88a3-4e91d9a5aa05
+    type: content
 title: Еден
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
