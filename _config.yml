@@ -1,6 +1,5 @@
-typography_spectrum: 0.6156142264672804
-content_rating:
-  adult: false
+layout_spectrum: 0.3578730579318091
+typography_spectrum: 0.9396013935624005
 color:
   brandColors:
     - '#B0CC99'
@@ -8,12 +7,15 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
-  brandStrength: 0.874201027497852
-  lightness: 0.2956815300053815
-  saturation: 0.1133570328395408
-  rhythmicContrast: 0.10235002973614869
+  brandStrength: 0.4302520288465231
+  lightness: 1
+  saturation: 0.9175007374997777
+  rhythmicContrast: 0.18255982038601865
+coverPrefs:
+  filter: false
+content_rating:
+  adult: false
 github: true
-layout_spectrum: 0.6019646995461149
 name: Еден
 navigation:
   - name: О јагодама
@@ -54,8 +56,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: Савремени узгој јагода на природан начин
 purpose:
   - type: contact
