@@ -1,5 +1,6 @@
-layout_spectrum: 0.3578730579318091
 typography_spectrum: 0.9396013935624005
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B0CC99'
@@ -11,11 +12,8 @@ color:
   lightness: 1
   saturation: 0.9175007374997777
   rhythmicContrast: 0.18255982038601865
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.3578730579318091
 name: Еден
 navigation:
   - name: О јагодама
@@ -29,6 +27,9 @@ navigation:
     type: content
   - name: Ђубрење јагода
     id: 3b969090-e4b6-4893-ab9d-b8b6fde67ff9
+    type: content
+  - name: Микроорганизми
+    id: dc756be6-fbf7-4478-bb54-9c59b129dc35
     type: content
 title: Еден
 content:
@@ -56,6 +57,8 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: Савремени узгој јагода на природан начин
 purpose:
   - type: contact
