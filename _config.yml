@@ -67,3 +67,6 @@ purpose:
   - type: contact
     url: 'tel:+38122497294'
     label: позовите нас
+author:
+  name: Bojan Catic
+  email: bojan.catic022@gmail.com
