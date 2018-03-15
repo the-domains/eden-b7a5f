@@ -1,4 +1,8 @@
 name: Еден
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/55613e54-ce8d-4a81-a69f-40f9f6f04715.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d56eee95-6a18-470b-8ef4-8009cd45e0c9.png
 layout_spectrum: 0.3578730579318091
 typography_spectrum: 0.9396013935624005
 opengraph:
@@ -66,4 +70,3 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
-url: 'http://xn--d1abb6a.xn--90a3ac/'
