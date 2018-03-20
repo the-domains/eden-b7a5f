@@ -1,13 +1,6 @@
-name: Еден
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/55613e54-ce8d-4a81-a69f-40f9f6f04715.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d56eee95-6a18-470b-8ef4-8009cd45e0c9.png
-layout_spectrum: 0.3578730579318091
 typography_spectrum: 0.9396013935624005
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B0CC99'
@@ -19,21 +12,18 @@ color:
   lightness: 1
   saturation: 0.9175007374997777
   rhythmicContrast: 0.18255982038601865
-purpose:
-  - type: contact
-    label: Пишите нам
-    url: 'mailto:bojan.catic022@gmail.com'
-  - type: contact
-    label: Позовите нас
-    url: 'tel:+38122497294'
-title: Еден
-description: Савремени узгој јагода на природан начин
+github: true
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.3578730579318091
 author:
   name: Bojan Catic
   url: 'http://xn--d1abb6a.xn--90a3ac/'
   email: bojan.catic022@gmail.com
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d56eee95-6a18-470b-8ef4-8009cd45e0c9.png
+name: Еден
 navigation:
   - name: О јагодама
     id: 2e830f54-d9fa-4c7b-88a3-4e91d9a5aa05
@@ -47,6 +37,12 @@ navigation:
   - name: Ђубрење јагода
     id: 3b969090-e4b6-4893-ab9d-b8b6fde67ff9
     type: content
+  - name: Микроорганизми
+    id: dc756be6-fbf7-4478-bb54-9c59b129dc35
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/55613e54-ce8d-4a81-a69f-40f9f6f04715.png
+title: Еден
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -56,21 +52,27 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/af027ed7-7ead-4ea6-b868-261ad1438cde.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+description: Савремени узгој јагода на природан начин
+purpose:
+  - type: contact
+    label: Пишите нам
+    url: 'mailto:bojan.catic022@gmail.com'
+  - type: contact
+    label: Позовите нас
+    url: 'tel:+38122497294'
