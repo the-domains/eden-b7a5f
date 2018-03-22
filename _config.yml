@@ -1,6 +1,5 @@
-typography_spectrum: 0.9396013935624005
-content_rating:
-  adult: false
+layout_spectrum: 0.4185814952237144
+typography_spectrum: 0.24536797621453382
 color:
   brandColors:
     - '#B0CC99'
@@ -8,15 +7,16 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
-  brandStrength: 0.4302520288465231
-  lightness: 1
-  saturation: 0.9175007374997777
-  rhythmicContrast: 0.18255982038601865
+  brandStrength: 0.4342379008684455
+  lightness: 0.9922626820569028
+  saturation: 0.9176467538192536
+  rhythmicContrast: 0.34035486616526206
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.3578730579318091
 author:
   name: Bojan Catic
   url: 'http://xn--d1abb6a.xn--90a3ac/'
