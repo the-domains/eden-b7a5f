@@ -46,16 +46,16 @@ description: >-
   препарати које људи примењују од давнина. Истина је да су додатно обогаћена
   али уз мало креативности и знања, мешањем више таквих ђубрива ви можете сами
   створити комплексна и богата ћубрива.
-dateModified: '2018-03-22T04:08:39.839Z'
-datePublished: '2018-03-22T04:56:46.978Z'
+dateModified: '2018-03-22T04:57:20.122Z'
+datePublished: '2018-03-22T04:57:20.724Z'
 title: Природна ђубрива
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-03-22-prirodna-ubriva.md
 starred: false
 datePublishedOriginal: '2018-03-22T04:56:46.978Z'
-sourcePath: _posts/2018-03-22-prirodna-ubriva.md
 url: prirodna-ubriva/index.html
 _type: Blurb
 
