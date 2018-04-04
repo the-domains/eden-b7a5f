@@ -1,6 +1,13 @@
+name: Еден
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/55613e54-ce8d-4a81-a69f-40f9f6f04715.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d56eee95-6a18-470b-8ef4-8009cd45e0c9.png
+layout_spectrum: 0.6188368133402032
 typography_spectrum: 0.48236418755669697
-content_rating:
-  adult: false
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#B0CC99'
@@ -12,24 +19,30 @@ color:
   lightness: 0.9918749802792906
   saturation: 0.7180098740728849
   rhythmicContrast: 0.3458364415458302
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.6188368133402032
+purpose:
+  - type: contact
+    label: Пишите нам
+    url: 'mailto:bojan.catic022@gmail.com'
+  - type: contact
+    label: Позовите нас
+    url: 'tel:+381652603963'
+title: Еден
+description: Савремени узгој јагода на природан начин
 author:
   name: Bojan Catic
   url: 'http://xn--d1abb6a.xn--90a3ac/'
   email: bojan.catic022@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d56eee95-6a18-470b-8ef4-8009cd45e0c9.png
-name: Еден
+content_rating:
+  adult: false
 navigation:
   - name: О јагодама
     id: 2e830f54-d9fa-4c7b-88a3-4e91d9a5aa05
     type: content
   - name: Садња јагода зарад профита
     id: febeadb7-eac9-4e4e-b63d-306a54118996
+    type: content
+  - name: Јагоде за личне потребе
+    id: ef18df0b-8d7e-46df-a092-303887959455
     type: content
   - name: Одабир садног материјала
     id: f7247512-b1fe-4887-9938-817a9102fd31
@@ -43,12 +56,6 @@ navigation:
   - name: Природна ђубрива
     id: abd97d96-d369-42fa-9660-59f3319cf731
     type: content
-  - name: Јагоде за личне потребе
-    id: ef18df0b-8d7e-46df-a092-303887959455
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/55613e54-ce8d-4a81-a69f-40f9f6f04715.png
-title: Еден
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -58,27 +65,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/af027ed7-7ead-4ea6-b868-261ad1438cde.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      app_links: []
+      '@context': 'http://schema.org'
+      keywords: []
       publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
       description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Савремени узгој јагода на природан начин
-purpose:
-  - type: contact
-    label: Пишите нам
-    url: 'mailto:bojan.catic022@gmail.com'
-  - type: contact
-    label: Позовите нас
-    url: 'tel:+381652603963'
+github: true
