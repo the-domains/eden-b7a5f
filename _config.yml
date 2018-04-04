@@ -50,11 +50,11 @@ navigation:
   - name: Ђубрење јагода
     id: 3b969090-e4b6-4893-ab9d-b8b6fde67ff9
     type: content
-  - name: Микроорганизми
-    id: dc756be6-fbf7-4478-bb54-9c59b129dc35
-    type: content
   - name: Природна ђубрива
     id: abd97d96-d369-42fa-9660-59f3319cf731
+    type: content
+  - name: Микроорганизми
+    id: dc756be6-fbf7-4478-bb54-9c59b129dc35
     type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
