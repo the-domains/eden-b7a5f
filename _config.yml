@@ -1,5 +1,6 @@
-layout_spectrum: 0.6188368133402032
 typography_spectrum: 0.48236418755669697
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B0CC99'
@@ -11,12 +12,11 @@ color:
   lightness: 0.9918749802792906
   saturation: 0.7180098740728849
   rhythmicContrast: 0.3458364415458302
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.6188368133402032
 author:
   name: Bojan Catic
   url: 'http://xn--d1abb6a.xn--90a3ac/'
@@ -42,6 +42,9 @@ navigation:
     type: content
   - name: Природна ђубрива
     id: abd97d96-d369-42fa-9660-59f3319cf731
+    type: content
+  - name: Јагоде за личне потребе
+    id: ef18df0b-8d7e-46df-a092-303887959455
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/55613e54-ce8d-4a81-a69f-40f9f6f04715.png
