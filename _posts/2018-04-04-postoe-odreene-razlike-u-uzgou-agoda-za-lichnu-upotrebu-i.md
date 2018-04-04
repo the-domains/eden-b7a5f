@@ -1,9 +1,11 @@
 ---
 title: Јагоде у мојој башти
-dateModified: '2018-04-04T03:00:42.982Z'
+datePublished: '2018-04-04T03:17:54.980Z'
+dateModified: '2018-04-04T03:17:51.802Z'
 publisher: {}
 author: []
 inFeed: false
+hasPage: true
 description: >-
   Постоје одређене разлике у узгоју јагода за личну употребу и узгоју зарад
   профита. Уколико садите јагоде за личне потребе можете применити разне
@@ -29,11 +31,9 @@ description: >-
   пробудимо машту како би сте обогатили своју башту креативним решењима. Па да
   почнемо...
 via: {}
-datePublished: '2018-04-04T03:00:43.641Z'
-hasPage: true
-sourcePath: _posts/2018-04-04-postoe-odreene-razlike-u-uzgou-agoda-za-lichnu-upotrebu-i.md
 starred: false
 datePublishedOriginal: '2018-04-04T03:00:04.785Z'
+sourcePath: _posts/2018-04-04-postoe-odreene-razlike-u-uzgou-agoda-za-lichnu-upotrebu-i.md
 url: agode-u-moo-bashti/index.html
 _type: Article
 _context: 'http://schema.org'
