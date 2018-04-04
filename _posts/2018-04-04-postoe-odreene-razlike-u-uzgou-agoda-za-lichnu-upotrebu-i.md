@@ -1,6 +1,6 @@
 ---
 title: Јагоде у мојој башти
-dateModified: '2018-04-04T02:59:40.896Z'
+dateModified: '2018-04-04T03:00:42.982Z'
 publisher: {}
 author: []
 inFeed: false
@@ -29,11 +29,11 @@ description: >-
   пробудимо машту како би сте обогатили своју башту креативним решењима. Па да
   почнемо...
 via: {}
-datePublished: '2018-04-04T03:00:04.785Z'
+datePublished: '2018-04-04T03:00:43.641Z'
 hasPage: true
+sourcePath: _posts/2018-04-04-postoe-odreene-razlike-u-uzgou-agoda-za-lichnu-upotrebu-i.md
 starred: false
 datePublishedOriginal: '2018-04-04T03:00:04.785Z'
-sourcePath: _posts/2018-04-04-postoe-odreene-razlike-u-uzgou-agoda-za-lichnu-upotrebu-i.md
 url: agode-u-moo-bashti/index.html
 _type: Article
 _context: 'http://schema.org'
