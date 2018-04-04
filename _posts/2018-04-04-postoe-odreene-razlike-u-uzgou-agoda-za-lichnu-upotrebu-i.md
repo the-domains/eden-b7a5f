@@ -1,7 +1,7 @@
 ---
 title: Јагоде у мојој башти
-datePublished: '2018-04-04T03:45:18.610Z'
-dateModified: '2018-04-04T03:45:05.200Z'
+datePublished: '2018-04-04T03:53:22.877Z'
+dateModified: '2018-04-04T03:53:15.330Z'
 publisher: {}
 author: []
 inFeed: false
@@ -70,3 +70,5 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3626864-e3ef-4e78-91d2-9a801986f038.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/281856b9-c801-4c14-877f-e36a5f6d6600.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cedc3f58-2e3b-4b79-9e86-706d6aca16ba.png)
+
+---
